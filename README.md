@@ -1,11 +1,29 @@
-**Instuction:**
+# **Instuction:**
 
+###### LOCAL
 1. Unzip
 2. Install nodejs from:https://nodejs.org/en/download/
 3. Open PowerShell in the folder by pressing CTRL+RIGHT MOUSE
 4. Write in console "npm i"
 5. Open config.json with notepad, put passoword, login and put game ids
 6. Again open PowerShell and Write "node index.js"
+
+###### **For VPS HOSTING (ubuntu)**
+1. Unzip
+2. Install nodejs **sudo apt install nodejs** and a npm **sudo apt install npm**
+4. Edit the **config.json** file put You game ids, password and login to Your account
+4. Upload all files to your VPS server via Filezila or other program
+5. via console get into directory of booster
+6. Use **npm i** to install all package needed to run the booster
+7. Now You just have to use command **node index.js**
+
+## **If you have a problem when you close your VPS terminal, the booster is gone, just install screen**
+###### How to do:
+1. Run terminal of Your VPS
+2. Use the command to install screen **sudo apt install screen**
+3. Now go into booster folder with Your terminal 
+4. Instead of using *node index.js* use **screen node index.js**
+
 
 LOGIN = YOUR STEAM ACCOUNT LOGIN
 
@@ -16,7 +34,7 @@ PASS = YOUR STEAM PASSWORD
 https://store.steampowered.com/app/ **HERE IS YOUR GAME ID** /CounterStrike_Global_Offensive/
 
 
-DISCORD: https://discord.io/paidcfg
+DISCORD: https://dsc.gg/legendsnetwork
 
 DISCORD: Moji#6384
 
