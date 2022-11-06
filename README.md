@@ -40,7 +40,7 @@ https://store.steampowered.com/app/ **HERE IS YOUR GAME ID** /CounterStrike_Glob
 
 DISCORD: https://dsc.gg/legendsnetwork
 
-DISCORD: Moji#6384
+DISCORD: Moji#1965
 
 
 
